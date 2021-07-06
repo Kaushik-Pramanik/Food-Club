@@ -48,7 +48,7 @@ h1{
 .center{
     text-align: center;
 }
-.images-sizes3{
+.images-sizes2{
     width: 90%;
     border-radius: 20px;
     margin-top: 5%;
@@ -62,7 +62,7 @@ h1{
     padding-bottom: 7px;
     border-radius: 20px;
 }
-.box{
+.bottom-box{
     box-shadow: 10px 10px 20px grey;
     width: 90%;
     margin: 5%;
@@ -71,7 +71,7 @@ h1{
     border-radius: 20px;
 
 }
-#align{
+#bottom-box-align{
     margin-left: 300px;
 }
 footer{
